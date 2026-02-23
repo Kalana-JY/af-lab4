@@ -1,0 +1,25 @@
+{
+  "name": "af-lab4",
+  "version": "1.0.0",
+  "description": "Introduction to NodeJS and GitHub flow",
+  "keywords": [
+    "node",
+    "lab",
+    "se3040"
+  ],
+  "homepage": "https://github.com/Kalana-JY/af-lab4#readme",
+  "bugs": {
+    "url": "https://github.com/Kalana-JY/af-lab4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalana-JY/af-lab4.git"
+  },
+  "license": "ISC",
+  "author": "Kalana Jayawardhana",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
